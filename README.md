@@ -31,7 +31,7 @@ code.py goes in the root directory of Circuitpython.
 
 
 How to use:
-The keypad has multiple layers to it. In the default mode, the mode shift modifier key will be a dim red color.
+The keypad has multiple layers to it. In the default mode, the mode shift modifier key will be a dim red color when in the idle layer.
 
 Press and hold the modifier key to choose a mode, it will turn gold to indicate this. You will need to hold it while you select a mode, otherwise it will revert back to the selected mode once you press any key.
 
