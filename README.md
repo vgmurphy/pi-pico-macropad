@@ -25,6 +25,11 @@ adafruit_hid has the following:
 - keycode.mpy
 - mouse.mpy
 
+Libraries go in the lib folder
+
+code.py goes in the root directory of Circuitpython.
+
+
 How to use:
 The keypad has multiple layers to it. In the default mode, the mode shift modifier key will be a dim red color.
 
